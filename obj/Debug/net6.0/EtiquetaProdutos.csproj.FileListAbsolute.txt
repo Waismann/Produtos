@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\bin\Debug\net6.0\EtiquetaProdutos.exe
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\bin\Debug\net6.0\EtiquetaProdutos.deps.json
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\bin\Debug\net6.0\EtiquetaProdutos.runtimeconfig.json
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\bin\Debug\net6.0\EtiquetaProdutos.dll
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\bin\Debug\net6.0\EtiquetaProdutos.pdb
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.AssemblyInfo.cs
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.dll
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\refint\EtiquetaProdutos.dll
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.pdb
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\EtiquetaProdutos.genruntimeconfig.cache
+C:\Users\User\Desktop\EstudoC#\Secao10HerPol\EtiquetaProdutos\EtiquetaProdutos\obj\Debug\net6.0\ref\EtiquetaProdutos.dll
